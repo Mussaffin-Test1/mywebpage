@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRw7xd4A6MgPJ4D8V0NBZvAjl51FUNKI3VKA&s);
+}
+img{
+    border: darkred solid;
+    background-color: black;
+}
+video{
+    border: darksalmon solid;
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h2{
+    color: red;
+}
+a{
+    color: blueviolet;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/15/18/42/87/360_F_1518428750_bJHu3XB5F3BqP1gStEe7I9yNW09oW9CO.jpg);
+}
+table{
+   border-collapse: collapse;
+   width: 300px;
+   text-align: center;
+   background-color: white;
+  }
+td{
+   border: 2px solid black;
+   padding: 10px;
+}
+th{
+   border: 2px solid black;
+   padding: 10px;
+}
+h1{
+    color: rgb(71, 148, 142)'
+}
+h2{
+    color:rgb(141, 48, 35);
+}
+a{
+    color: darkmagenta;
+}
+span{
+    color: black;
+}
