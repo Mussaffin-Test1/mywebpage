@@ -1,11 +1,10 @@
 body{
     background-image: url(https://t4.ftcdn.net/jpg/03/61/52/11/360_F_361521180_mMN9HNjxBWBy4DV6nRqCgt23VtcFiscL.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 h1{
     color: chocolate;
 }
 a{
     color: rgb(78, 7, 7);
+
 }
