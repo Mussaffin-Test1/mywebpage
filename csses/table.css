@@ -34,10 +34,10 @@ h3{
 a{
     color: darkmagenta;
     font-family: "cedarville cursive", cursive;
+    text-align: center;
 }
 span{
     font-weight: bold;
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
 }
