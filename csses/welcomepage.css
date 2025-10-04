@@ -1,12 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&family=Inconsolata:wght@200..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=SUSE+Mono:ital,wght@0,100..800;1,100..800&family=Squada+One&display=swap');
 body{
     background-image: url(https://t4.ftcdn.net/jpg/03/61/52/11/360_F_361521180_mMN9HNjxBWBy4DV6nRqCgt23VtcFiscL.jpg);
 }
 h1{
     color: chocolate;
+    font-family: "SUSE Mono", sans-serif;
 }
 a{
     color: rgb(78, 7, 7);
-    background-color: wheat;
-
+    background-color: rgba(245, 222, 179, 0.500);
 }
-
+a:hover{
+    color: rgba(255, 0, 0, 0.5);
+    background-color: rgba(255, 255, 0, 0.500);
+}
+a:active{
+    color: rgba(0, 255, 34, 0.500);
+    background-color: rgba(255, 255, 255, 0.500);
+}
+a:visited{
+    color: rgb(78, 7, 7);
+    background-color: rgba(245, 222, 179, 0.500);
+}
+.first{
+    font-family: "Dancing Script", cursive;
+}
+.second{
+    font-family: "Cedarville Cursive", cursive;
+}
+.third{
+    font-family: "Squada One", sans-serif;;
+}
