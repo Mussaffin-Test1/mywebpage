@@ -3,7 +3,7 @@ body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRw7xd4A6MgPJ4D8V0NBZvAjl51FUNKI3VKA&s);
 }
 img{
-    border: darkred solid;
+    border: white solid;
     background-color: black;
 }
 video{
@@ -25,3 +25,4 @@ a{
     font-family: "cedarville cursive", cursive;
     text-align: center;
 }
+
