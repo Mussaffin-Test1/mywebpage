@@ -20,6 +20,7 @@ th{
 }
 h1{
     color: rgb(73, 117, 238);
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
     text-align: center;
     font-family: "SUSE Mono", sans-serif;
 }
@@ -41,3 +42,4 @@ span{
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
 }
+
