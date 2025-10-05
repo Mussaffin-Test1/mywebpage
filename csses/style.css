@@ -12,12 +12,14 @@ video{
 }
 h1{
     color: white;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
     font-family: "SUSE Mono", sans-serif;
     text-align: center;
 }
 h2{
     color: red;
 }
+
 a{
     color: darkmagenta;
     font-family: "cedarville cursive", cursive;
