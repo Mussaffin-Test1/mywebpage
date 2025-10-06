@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="csses/form.css">
+</head>
+<body>
+    <form action="registration.html" method="post">
+        <h1>Student I.T Club Registration Form</h1>
+        <ul>
+            <li>
+                Name:- 
+                <input type="text" name="First_Name" placeholder="Enter Your First Name" required>
+            </li>
+            <li>
+                Middle Name:-<input type="text" name="Middle_Name" placeholder="Enter Your Middle Name">
+            </li>
+            <li>
+                Last Name:-<input type="text" name="Last_Name" placeholder="Enter Your Last Name" required>
+            </li>
+            <li>
+                Date of Birth:- <input type="text" name="DOB" placeholder="Enter Your Date of Birth" required>
+            </li>
+            <li>
+                Roll No.:-<input type="text"  name="Roll No" placeholder="Enter Your Roll No" required>
+            </li>
+            <li>
+                Class:-<select name="class" required>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+            </select>
+            </li>
+            <li>
+                SEction:-<select name="Section">
+                    <option value="A">A</option>
+                    <option value="B">B</option>
+                </select>
+            </li>
+            <li>
+                Select Gender:-<input type="radio" name="gender" value="Male">MAle
+                <input type="radio" name="gender" value="Female">Female          
+            </li>
+            <li>
+                tell us about your hobbies(obtional)
+                <br>
+                <textarea name="hobbies" cols="30" rows="10"></textarea>
+            </li>
+            <li>
+                upload your picture:-<input type="file" name="picture">
+            </li>
+            <br><br>
+                <input type="submit" value="Submit" style="background-color: green;
+                color: white;">
+                <input type="reset" value="Reset" style="background-color: red;
+                color: white;">
+        </ul>
+    </form>
+</body>
+</html>
